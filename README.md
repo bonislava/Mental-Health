@@ -1,4 +1,4 @@
-# Mental-Health
+# Mental-Health/Depression
 ## Depression
  **Source:** [Mental Health Detection Dataset](https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset)
 
