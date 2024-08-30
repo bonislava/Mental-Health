@@ -35,4 +35,4 @@
 
 **Depression State: Overall depression state (categorized as 'No depression', 'Mild', 'Moderate', 'Severe').**
 
-#PLOTLY-DASH Visualizations
+# PLOTLY-DASH Visualizations
