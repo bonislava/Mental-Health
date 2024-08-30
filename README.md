@@ -1,8 +1,10 @@
 # Mental-Health
 ## Depression
  **Source:** [Mental Health Detection Dataset](https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset)
- **Number: Unique identifier for each patient.**
+
 ## Dataset overview: 
+**Number: Unique identifier for each patient.**
+
 **Sleep: Frequency of sleep disturbances (1: Never, 2: Always, 3: Often, 4: Rarely, 5: Sometimes, 6: Not at all).**
 
 **Appetite: Changes in appetite (1: Never, 2: Always, 3: Often, 4: Rarely, 5: Sometimes, 6: Not at all).**
