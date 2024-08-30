@@ -1,4 +1,4 @@
-# Mental-Health/Depression
+# Mental-Health
 ## Depression
  **Source:** [Mental Health Detection Dataset](https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset)
 
@@ -34,3 +34,5 @@
 **Low Energy: Lack of energy (1: Never, 2: Always, 3: Often, 4: Rarely, 5: Sometimes, 6: Not at all).**
 
 **Depression State: Overall depression state (categorized as 'No depression', 'Mild', 'Moderate', 'Severe').**
+
+#PLOTLY-DASH Visualizations
