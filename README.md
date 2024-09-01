@@ -36,6 +36,7 @@
 **Depression State: Overall depression state (categorized as 'No depression', 'Mild', 'Moderate', 'Severe').**
 
 # PLOTLY-DASH Visualizations
+[Dash in 20 Minutes](https://dash.plotly.com/tutorial)
 ## Required library - dash
 **pip install dash**
 ## For more : info_visualizations
