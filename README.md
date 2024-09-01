@@ -38,3 +38,4 @@
 # PLOTLY-DASH Visualizations
 ## Required library - dash
 **pip install dash**
+## For more : info_visualizations
