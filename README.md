@@ -39,4 +39,4 @@
 [Dash in 20 Minutes](https://dash.plotly.com/tutorial)
 ## Required library - dash
 **pip install dash**
-## For more : info_visualizations
+
