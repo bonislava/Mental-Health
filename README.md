@@ -42,12 +42,19 @@
 ### Dynamic Dropdowns: User can select a state and a combination of depression states to filter the data dynamically.
 ### Interactive Visualizations:
 **Box Plot: Displays the distribution of numeric features.**
+
 **Histogram: Shows the frequency distribution of numeric features.**
+
 **Heatmap: Highlights correlations between numeric features.**
+
 **Pie Chart: Represents the proportion of depression states in the dataset.**
+
 **Bubble Plot: Visualizes relationships between Sleep, Fatigue, and Low Energy.**
+
 **Stacked Bar Chart: Summarizes numeric features grouped by depression states.**
+
 **Density Plot: Displays contour densities between Sleep and Fatigue.**
+
 **3D Scatter Plot: Explores the relationship between Sleep, Fatigue, and Low Energy in 3D.**
 
 # PROJECT:
